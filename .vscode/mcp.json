@@ -1,0 +1,12 @@
+{
+	"servers": {
+		"lens-studio": {
+			"headers": {
+				"Authorization": "Bearer N_hNNzuAr3gx0lPDt8-_yerfAkaYakWLPR1krYR-NkQjTrSTJFPsRHGghStel7qR"
+			},
+			"type": "http",
+			"url": "http://localhost:50049/mcp"
+		},
+	},
+	"inputs": []
+}
